@@ -1,0 +1,6 @@
+build
+*.mdf
+*.ldf
+~*
+myutil.sh
+notes
